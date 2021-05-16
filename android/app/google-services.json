@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "185351226154",
+    "project_id": "a-pass-4354c",
+    "storage_bucket": "a-pass-4354c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185351226154:android:fac32ffde65772ad7bd453",
+        "android_client_info": {
+          "package_name": "com.example.flutternew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185351226154-n9laufnacsfk1lrp2v3hil1j1fem6d75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcG2imAgVMfZRW7OaPukfIYl5wKZFVyPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185351226154-n9laufnacsfk1lrp2v3hil1j1fem6d75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
